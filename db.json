@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "title":"Fashion Legend T",
+      "price":100,
+      "category":"SHIRT",
+      "image":"https://th.bing.com/th/id/OIP.sJpDmuNMrnO1za-Yt7RkDAHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id":2,
+      "title":"KOBRA SHOES",
+      "price":300,
+      "category":"SHOES",
+      "image":"https://cdn.sweatband.com/salming_kobra_2_ladies_indoor_court_shoes_aw19_salming_kobra_2_ladies_indoor_court_shoes_aw19_-_side1_2000x2000.jpg"
+    },
+    {
+      "id":3,
+      "title":"Salomon Shoes",
+      "price":150,
+      "category":"SHOES",
+      "image":"https://th.bing.com/th/id/OIP.uFFgvyMNFlAupD10VnTlpgHaEr?pid=ImgDet&rs=1"
+    },
+    {
+      "id":4,
+      "title":"GUCHI QUSTON WATCH",
+      "price":"500",
+      "category":"WATCH",
+      "image":"https://images.antiquesatlas.com/dealer-stock-images/thevintagewristwatch/Gents_1940s_Helvetia_wrist_wat_as170a5941z-1.jpg"
+    },
+    {
+      "id":5,
+      "title":"",
+      "price":"",
+      "category":"",
+      "image":""
+    }
+  ],
+  "individual":[
+    {
+      "id":1,
+      "description":"A shirt is a cloth garment for the upper body (from the neck to the waist). Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments."
+    },
+    {
+      "id":2,
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with form originally being tied to function."
+    },
+    {
+      "id":3,
+      "description":"A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with form originally being tied to function."
+    },
+    {
+      "id":4,
+      "description":"It is designed to keep a consistent movement despite the motions caused by the person's activities. A wristwatch is designed to be worn around the wrist, attached by a watch strap or other type of bracelet, including metal bands, leather straps or any other kind of bracelet"
+    }
+  ]
+}
